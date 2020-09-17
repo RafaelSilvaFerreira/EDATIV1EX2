@@ -1,0 +1,85 @@
+Lista de temperaturas
+
+	1-Checar se a lista está Vazia	2-Adicionar item ao início da lista
+
+	3-Adicionar item ao final da lista
+
+	4-Adicionar item a um índice
+
+	5-Remover item do início da lista
+
+	6-Remover item do final da lista
+
+	7-Remover item em um índice
+
+	8-Exibir lista
+
+3
+
+Insira o valor:1
+
+item adicionado ao início da lista
+
+2
+
+Insira o valor:13
+
+item adicionado ao início da lista
+
+Tamanho da lista: 2
+
+4
+
+Insira o valor:575
+
+Insira o índice:8
+
+Posição inválida!
+
+2
+
+Insira o valor:1
+
+item adicionado ao início da lista
+
+Tamanho da lista: 3
+
+4
+
+Insira o valor:575
+
+Insira o índice:2
+
+item adicionado ao índice: 11
+
+8
+
+ 
+
+1.0
+
+575.0
+
+13.0
+
+1.0
+
+5
+
+1.0
+
+6
+
+1.0
+
+6
+
+13.0
+
+8
+
+ 
+
+575.0
+
+9
